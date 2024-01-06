@@ -12,7 +12,7 @@ export default function Nav() {
           <li>
             <Link to="/" className={classes.brand}>
               <img src={logo} alt="Learn with Sumit Logo" />
-              <h3>Develope with Mohin</h3>
+              <h3>Lets Go with Mohin</h3>
             </Link>
           </li>
         </ul>
